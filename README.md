@@ -1,7 +1,7 @@
 # Praktikum 1 - Pemrograman Web
 
 ## ANTONIUS SIMANJUNTAK - 312010004
-## TI.20.B.1
+## TEKNIK INFORMATIKA -- TI.20.B.1
 
 ## LANGKAH 1
 
